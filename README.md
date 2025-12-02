@@ -1,5 +1,5 @@
 # file_organizer
-  Script em Python que organiza arquivos em subpastas com base em suas extensões (em andamento).
+  Script em Python que organiza arquivos em subpastas com base em suas extensões.
 
 - Descrição  
   Este projeto organiza arquivos de uma pasta, movendo-os para subpastas como "Imagens", "Documentos", "Músicas", "Vídeos" e "Outros", com base em suas extensões.
